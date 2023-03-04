@@ -1,0 +1,8 @@
+1. Adding firebase to android
+2. to iOs
+3. to web
+4. firebase.initializedApp() -> only for android and ios
+5.
+
+------:: UPDATE TOPICS ::-------
+1. Completed... 28/02/23
